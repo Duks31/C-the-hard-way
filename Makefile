@@ -21,7 +21,7 @@ clean:
 		if exist %%D\output.exe ( \
 			del /f %%D\output.exe && \
 			echo "Deleted %%D\output.exe" \
-		) \
+		) \.
 	)
 
 run:

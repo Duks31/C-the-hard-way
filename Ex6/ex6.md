@@ -1,0 +1,34 @@
+C Keywords 
+
+auto = Give a local variable a local lifetime
+break = Exit out of a compound statement
+case = A branch in a switch statement
+char = Character data type
+const = Make a variable unmodifiable
+continue = Continue to the next iteration of a loop from the top
+default = Default branch in a switch statement
+do = start a do-while loop
+double = A double floating-point data type
+else = An else branch of an if statement
+enum = Define a set of int constants
+extern = Declare an identifier is defined externally
+float = A floating point datatype
+for = start a for loop
+goto = Jump to a label
+if = starts an if statement
+int = Integer datatype
+long =  A long integer data type
+register = Declare a variable to be stored in a CPU register
+return = Return from a function
+stort = A short integer data type
+signed = A signed modifier for integers datatypes
+sizeof = Determine the size of data
+static = Preserve variable value after its scope exists
+struct = Combine varibles values into a single record
+switch = start with a switch statement
+typedef = create a new type
+union = start a union statement
+unsigned = An unsigned modifier for integer datatypes
+void = Declare a datatype empty
+volatile = Declare a variable might be modified elsewhere
+while = start a while loop
