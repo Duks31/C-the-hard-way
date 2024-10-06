@@ -29,12 +29,10 @@ int main(int argc, char* argv[])
     switch (var )
     {
     case 1:
-        printf("Case 1 Matched");
-        break;
+        printf("Case 1 Matched");x
 
     case 2:
         printf("Case 2 Matched");
-        break;
     
     default:
         printf("I guess i would have to go here, Nothing Matched!!!");
