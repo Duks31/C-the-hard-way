@@ -1,7 +1,7 @@
 CC = gcc 		  # Compiler
 CFLAGS = -Wall -g # Compiler flags
 
-SRC_DIRS = $(if $(DIR), $(DIR), Ex12)
+SRC_DIRS = $(if $(DIR), $(DIR), Ex14)
 
 all = build_all
 
